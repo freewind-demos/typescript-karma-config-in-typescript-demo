@@ -1,7 +1,9 @@
-Typescript Karma Webpack Jasmine Demo
-=====================================
+Typescript Karma Config in Typescript Demo
+==========================================
 
-如何把Karma, webpack, jasmine连接起来，处理typescript测试
+使用typescript来写karma的config文件。
+
+关键点：必须安装ts-node，才能支持typescript
 
 ```
 npm install
